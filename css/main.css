@@ -588,8 +588,14 @@ td, th {
 }
 
 .text-green {
-  color: rgb(5, 233, 0);
+  color:#cbe5cc;
 }
+
+.text-orange {
+  color:#de7a51;
+}
+
+
 
 .text-black {
   color: #000;
