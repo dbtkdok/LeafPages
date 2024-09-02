@@ -587,6 +587,10 @@ td, th {
   color: #ff0000;
 }
 
+.text-green {
+  color: rgb(5, 233, 0);
+}
+
 .text-black {
   color: #000;
 }
