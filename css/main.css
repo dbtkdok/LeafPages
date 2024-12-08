@@ -3042,3 +3042,17 @@ h6 {
 	background-color: rgba(0,0,0,0.5);
 	z-index: 99;		
 }
+
+.modal_text {
+  text-align: left;
+  width: 500px;
+  border: 1px solid #eee;
+  background: #cdcdcd;
+}
+
+
+.modal_text a {
+    display: block;
+    margin: 10px 5px;
+    font-size: 15px;
+}
